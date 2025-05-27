@@ -38,9 +38,8 @@ The project was completed as part of the 7CS034 Data Science module at the Unive
 
 ## Tools & Technologies
 
-- Python (pandas, seaborn, matplotlib)
+- R for Data Science
 - Quarto / RMarkdown for presentation
-- Jupyter Notebook (if used)
 - Data visualisation
 
 ---
