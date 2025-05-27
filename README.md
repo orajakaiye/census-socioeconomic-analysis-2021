@@ -30,8 +30,8 @@ The project was completed as part of the 7CS034 Data Science module at the Unive
 
 ## Files Included
 
-- `2439749.qmd`: Quarto source file with code, visualisations, and narrative
-- `2439749.pdf`: Exported presentation/report document
+- `Quarto.qmd`: Quarto source file with code, visualisations, and narrative
+- `Report.pdf`: Exported presentation/report document
 - `README.md`: This summary file
 
 ---
@@ -57,12 +57,12 @@ The project was completed as part of the 7CS034 Data Science module at the Unive
 
 **Oluwadamilola Oreofe Ajakaiye**  
 MSc Data Science | University of Wolverhampton  
-📧 damilolaajakaiye@hotmail.com  
-📍 United Kingdom
+damilolaajakaiye@hotmail.com  
+United Kingdom
 
 ---
 
-## 📌 Module
+## Module
 
 **7CS034 – Data Science**  
 Coursework Project | Academic Year 2024/25
